@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 #### Hey👋,I am 贾敬楠👨‍💻
 
-- 🔭 I live in Shanghai now, was lived in Melbourne and  Adelaide in 2017-2018:[![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://github.com/Jia-Jingnan).
+- 🔭 I live in Shanghai now, was lived in Melbourne and  Adelaide in 2017-2018:[![](https://img.shields.io/badge/live-Shanghai | MEL | ADE-red.svg)](https://github.com/Jia-Jingnan)
 - 😎 I am work as a QA Engineer:[![github](https://img.shields.io/badge/work-QA Engineer-yellowgreen.svg)](https://github.com/Jia-Jingnan)
 - ✒️ I good at UI and Api auto testing and Performance testing: [![](https://img.shields.io/badge/ui test framework- Chadstone-7ab.svg)]() [![](https://img.shields.io/badge/api test framework- Ashford-5cd)]() [![](https://img.shields.io/badge/api test platform- YouTest-blue)]()
 - 🏄 I also like surfing the Internet:<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jia-Jingnan&layout=compact" />![](https://img.shields.io/badge/music - QQ音乐 | 网易云音乐-important.svg)![](https://img.shields.io/badge/vedio - bilibili-8fc.svg)![](https://img.shields.io/badge/program - Github-8cf.svg)
