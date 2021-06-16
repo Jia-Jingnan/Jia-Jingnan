@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🎥 I most use lan is Java, and currently learning Vue, Python:<img src="https://img.shields.io/badge/most use - Java-critical.svg" alt="github"> <img src="https://img.shields.io/badge/learning - Vue | Go-9cf.svg" alt="github">
 - :cat: I love cats and dogs, and I have a cat named Pipi:<img src="https://img.shields.io/badge/buddy - Pipi-9fc.svg" alt="github">
 - 📫 How to connect me: <img src="https://img.shields.io/badge/Weixin - JingnanSJ-orange.svg" alt="github"> <img src="https://img.shields.io/badge/Email - 875480307@qq.com-9de.svg" alt="github">
-- 🌱 Here is my github vistors: <a href="https://github.com/Jia-Jingnan"><img src="https://visitor-badge.glitch.me/badge?page_id=Jia-Jingnan.Jia-Jingnan" alt="github"></a>
+- 🌱 Here is my github visitors: <a href="https://github.com/Jia-Jingnan"><img src="https://visitor-badge.glitch.me/badge?page_id=Jia-Jingnan.Jia-Jingnan" alt="github"></a>
